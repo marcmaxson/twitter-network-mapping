@@ -1,3 +1,4 @@
+# ipynb
 import networkx as net
 import matplotlib.pyplot as plt
 
